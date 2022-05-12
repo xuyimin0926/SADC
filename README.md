@@ -48,3 +48,6 @@ The comparison between our method and current SOTA methods is shown as below,
 
 ## Ref
 
+Link to the pre-printed paper: https://arxiv.org/abs/2205.04908
+
+Author email: xuyimin0926@gmail.com
